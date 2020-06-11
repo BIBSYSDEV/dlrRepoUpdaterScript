@@ -1,0 +1,3 @@
+dlr-auth-token-event-service
+dlr-auth-token-service
+dlr-authority-service
